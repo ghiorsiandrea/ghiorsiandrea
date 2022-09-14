@@ -23,7 +23,7 @@ acquired.
 <br>
 
 You will be able to appreciate that some of my projects are about 
-YouTube courses (for example: "Computer Pills" in which I was able 
+YouTube courses (for example: "Java desde Cero - Pildoras Informaticas" in which I was able 
 to acquire and apply valuable knowledge on, for example, 
 Collections, Sockets.
 </h3>
