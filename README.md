@@ -5,6 +5,7 @@ world of programming in a self-taught way and I just started
 my formal studies.
 
 ###
+<br>
 
 <div align="left">
 <img src="src/main/resources/java.png" height="100" width="120"/>
