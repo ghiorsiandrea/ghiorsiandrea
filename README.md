@@ -7,9 +7,10 @@ my formal studies.
 ###
 
 <div align="left">
-<img src="src/main/resources/java.png" height="100" width="120"  />
-<img src="src/main/resources/clean.jpg" height="100" width="120"  />
-<img src="src/main/resources/javacourse.png" height="100" width="120"  />
+<img src="src/main/resources/java.png" height="100" width="120"/>
+<img src="src/main/resources/clean.jpg" height="100" width="120"/>
+<img src="src/main/resources/javacourse.png" height="100" width="120"/>
+<img src="src/main/resources/git.png" height="100" width="120"/>
 </div>
 
 ###
@@ -37,6 +38,7 @@ acquired.
 <p align="left">Learning<br>
 - Clean Code <br>
 - Software architecture patterns 📝<br>
+
 
 ###
 
