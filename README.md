@@ -1,6 +1,6 @@
-# Hi, I'm Andrea Ghiorsi Moraes, a Java Software Developer
+# Hi, I'm Andrea Ghiorsi Moraes: <br>a Java Software Developer
 
-<h3 align="left">I am an accountant who has emigrated to the
+<h3 align="left">I'm an accountant who has migrated to the
 world of programming in a self-taught way and I just started
 my formal studies.
 
@@ -16,8 +16,15 @@ my formal studies.
 ###
 
 <h3 align="left">In this profile you can see the projects in which I have
-been working to expand and be able to capture the knowledge
+been working in order to expand and be able to capture the knowledge
 acquired.
+
+<br>
+
+You will be able to appreciate that some of my projects are about 
+YouTube courses (for example: "Computer Pills" in which I was able 
+to acquire and apply valuable knowledge on, for example, 
+Collections, Sockets.
 </h3>
 
 
