@@ -29,15 +29,17 @@ acquired.
 
 <br clear="both">
 
-<p align="left">Soft skills<br><br>
-✅ Passion for learning<br>
-✅ Team collaboration initiative</p>
+<p align="left">Soft skills<br>
+<br>
+- Passion for learning<br>
+- Teamwork</p>
 
 ###
 
 <p align="left">Learning<br>
-- Clean Code <br>
-- Software architecture patterns 📝<br>
+<br>
+- Clean Code 📝 <br>
+- Software architecture patterns <br>
 
 
 ###
