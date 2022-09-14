@@ -11,6 +11,7 @@ my formal studies.
 <img src="src/main/resources/clean.jpg" height="100" width="120"/>
 <img src="src/main/resources/javacourse.png" height="100" width="120"/>
 <img src="src/main/resources/git.png" height="100" width="120"/>
+<img src="src/main/resources/patrones.png" height="100" width="120"/>
 </div>
 
 ###
