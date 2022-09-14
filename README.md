@@ -19,9 +19,9 @@ my formal studies.
 <h3 align="left">In this profile you can see the projects in which I have
 been working in order to expand and be able to capture the knowledge
 acquired.
-
 <br>
-
+<br>
+<br>
 You will be able to appreciate that some of my projects are about 
 YouTube courses (for example: "Java desde Cero - Pildoras Informaticas" in which I was able 
 to acquire and apply valuable knowledge on, for example, 
