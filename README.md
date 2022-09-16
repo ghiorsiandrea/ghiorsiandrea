@@ -1,7 +1,7 @@
 # Hi, I'm Andrea Ghiorsi Moraes: <br>a Java Software Developer
 
 
-[Click to view my resume](https://docs.google.com/document/d/1KvpQWdfTtV838wfyrpa9R2fuxcvS0-gbW2pab6xMfik/edit?usp=sharing)
+[View my resume](https://docs.google.com/document/d/1KvpQWdfTtV838wfyrpa9R2fuxcvS0-gbW2pab6xMfik/edit?usp=sharing)
 
 
 <h3 align="left">I am an accountant who has migrated to the world 
