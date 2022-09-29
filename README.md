@@ -20,6 +20,7 @@ working to expand and be able to capture the knowledge acquired.
 <img src="src/main/resources/javacourse.png" height="100" width="120"/>
 <img src="src/main/resources/git.png" height="100" width="120"/>
 <img src="src/main/resources/patrones.png" height="100" width="120"/>
+<img src="src/main/resources/Java dev.png" height="100" width="120"/>
 </div>
 
 ###
