@@ -56,7 +56,6 @@ Collections, Sockets.
 <p align="left">Learning<br>
 <br>
 - Clean Code 📝 <br>
-- Software architecture patterns <br>
 
 
 ###
